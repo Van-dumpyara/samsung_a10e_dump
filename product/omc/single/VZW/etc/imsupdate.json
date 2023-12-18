@@ -1,0 +1,30 @@
+{
+  "update_version": 3,
+  "min_swver": "",
+  "note": "Overwriting EVS codec for A50U",
+  "imsprofile_update": {
+    "profile": [
+      {
+        "name": "VZW VoLTE",
+        "mnoname": "VZW_US",
+        "enable_evs_codec": false
+      },
+      {
+        "name": "VzW E911",
+        "mnoname": "VZW_US",
+        "enable_evs_codec": false,
+        "supported_geolocation_phase": 3
+      },
+      {
+        "name": "TFV VoLTE",
+        "mnoname": "VZW_US:TFN",
+        "enable_evs_codec": false
+      },
+      {
+        "name": "TFV E911",
+        "mnoname": "VZW_US:TFN",
+        "enable_evs_codec": false
+      }
+    ]
+  }
+}

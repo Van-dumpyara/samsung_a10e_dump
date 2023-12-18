@@ -1,0 +1,19 @@
+{
+  "update_version": 2,
+  "min_swver": "",
+  "imsprofile_update": {
+    "profile": [
+      {
+        "name": "AIO VoLTE",
+        "mnoname": "ATT_US:AIO",
+        "enable_verstat": true
+      },
+      {
+        "name": "AIO E911",
+        "mnoname": "ATT_US:AIO",
+        "enable_verstat": true
+      }
+    ]
+  }
+}
+
