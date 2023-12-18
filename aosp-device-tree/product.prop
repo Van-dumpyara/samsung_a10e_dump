@@ -1,0 +1,6 @@
+ro.omc.build.id=70442919
+ro.omc.build.version=A102UOYNGCWI1
+ro.omc.changetype=DATA_RESET_OFF,TRUE
+ro.omc.disabler=TRUE
+ro.omc.region=US
+ro.simbased.changetype=NO_DFLT_CSC,OMC
