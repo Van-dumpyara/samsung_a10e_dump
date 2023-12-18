@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?> <config>         <allow-in-power-save package="com.att.callprotect" />         <allow-in-power-save-except-idle package="com.att.callprotect" /> </config> 

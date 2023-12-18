@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<records>
+<boot_file>/system/framework/oat/arm/services.odex</boot_file>
+<boot_file>/vendor/lib/egl/libGLES_mali.so</boot_file>
+<boot_file>/system/framework/services.jar</boot_file>
+<boot_file>/data/dalvik-cache/arm/system@priv-app@TouchWizHome_2017@TouchWizHome_2017.apk@classes.vdex</boot_file>
+<boot_file>/system/fonts/Roboto-Light.ttf</boot_file>
+</records>

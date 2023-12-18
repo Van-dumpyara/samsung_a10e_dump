@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- The Qosindicator service must be
+                 whitelisted for Doze mode so it is always able to run. -->
+<config>
+  <allow-in-power-save package="com.samsung.qosindicator"/>
+</config>

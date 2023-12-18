@@ -1,0 +1,13 @@
+on boot
+service rsudrkproxyd /system/bin/rsudrkproxyd
+    class late_start
+    user system
+    group system
+    disabled
+    oneshot
+
+# RSU proxy
+on property:ro.boot.carrierid=ATT
+    start rsudrkproxyd
+on property:ro.boot.carrierid=AIO
+    start rsudrkproxyd
